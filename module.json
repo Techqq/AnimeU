@@ -1,0 +1,20 @@
+{
+    "sourceName": "animeuniquestream",
+    "iconUrl": "https://i.pinimg.com/474x/23/ea/a9/23eaa9c2193a0709a1827c00000be8b4.jpg",
+    "author": {
+        "name": "4v32",
+        "icon": "https://www.pngarc.com/wp-content/uploads/2024/02/23.23-min.png"
+    },
+    "version": "1.0.0",
+    "language": "English (DUB)",
+    "streamType": "HLS",
+    "quality": "1080p",
+    "baseUrl": "https://anime.uniquestream.net/",
+    "searchBaseUrl": "https://anime.uniquestream.net/api/v1/search?page=1&query=%s&language=dub",
+    "scriptUrl": "https://raw.githubusercontent.com/Techqq/AnimeU/main/script.js",
+    "type": "anime",
+    "downloadSupport": false,
+    "asyncJS": true,
+    "streamAsyncJS": false,
+    "softsub": true
+}
